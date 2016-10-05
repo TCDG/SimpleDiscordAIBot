@@ -1,0 +1,16 @@
+Use:
+Install Discord.Py
+Run the bot.py. This Will Create Configs
+Edit the Configs.
+Run bot.py
+
+Codes for airesp.txt:
+: = [%3A]
+; = [%3B]
+
+
+MentionSender = [@men]
+
+HostTime = [@tim]
+HostDate = [@dat]
+HostTimeZone = [@tiz]
